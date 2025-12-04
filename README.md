@@ -1,4 +1,4 @@
-# Hello there, I'm Pranith 👋
+# Hello there, I'm Pratham 👋
 
 
 ## I'm an undergraduate Computer Science student at University of Minnesota!
