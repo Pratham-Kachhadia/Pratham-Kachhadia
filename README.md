@@ -3,7 +3,7 @@
 
 ## I'm an undergraduate Computer Science student at University of Minnesota!
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Rust
 - 👨‍💻 Cooking up in the basement
 - 🥅 Future Goals: Learn more about web 3.0 + Agentic AI + Life
 
